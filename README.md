@@ -7,12 +7,9 @@ This project aims to recognize letter CAPTCHAs, done by Nathan Zhao, Yi Liu, and
 I. CAPTCHA generator
 
 II. Preprocessing:
-
-database_to_pickle.py -- converts a directory of images into a pickle object containing the data and respective labels in numpy arrays
-
-load_database.py
-
-dev_constants.py -- global variables
+1. database_to_pickle.py -- converts a directory of images into a pickle object containing the data and respective labels in numpy arrays
+2. load_database.py
+3. dev_constants.py -- global variables
 
 
 III. Single-letter CAPTCHA breaker:
