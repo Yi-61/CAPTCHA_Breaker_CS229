@@ -1,5 +1,6 @@
 # CAPTCHA_Breaker_CS229
 This is the repository for our Stanford CS229 class project, Fall 2017.
+
 This project aims to recognize letter CAPTCHAs, done by Nathan Zhao, Yi Liu, and Yijun Jiang.
 
 ## Contents
