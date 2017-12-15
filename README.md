@@ -11,7 +11,8 @@ II. Single-letter CAPTCHA breaker:
 1. t-SNE
 2. K-means
 3. Support vector machine
-4. Convolutional neural network
+4. Convolutional neural network (CNN) for single-letter recognition
+5. CNN with transfer learning (VGG19)
 
 III. Four-letter CAPTCHA breaker:
 1. "Moving Window" algorithm
