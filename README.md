@@ -5,7 +5,6 @@ This project aims to recognize letter CAPTCHAs, done by Nathan Zhao, Yi Liu, and
 
 ## Contents
 I. Preprocessing:
-1. 
 
 II. Single-letter CAPTCHA breaker:
 1. t-SNE
