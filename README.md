@@ -22,3 +22,8 @@ III. Single-letter CAPTCHA breaker:
 IV. Four-letter CAPTCHA breaker:
 1. "Moving Window" algorithm
 2. Multi-CNN
+
+## Requirements:
+1. Python: version 3.6.3
+2. Tensorflow: version 1.4.0
+3. Keras: version 2.0.8
